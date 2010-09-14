@@ -1,0 +1,23 @@
+body {
+    width: 99%;
+    margin: 0 auto;
+}
+
+body #container {
+    text-shadow: 4px 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+body  #container .message .congratulate {
+    font-size: 100px;
+    color: red;
+    text-align: center;
+    padding: 0;
+}
+
+body  #container .message .sign {
+    font-size: 80px;
+    color: red;
+    text-align: right;
+    margin: 0;
+    padding: 0;
+}
